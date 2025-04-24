@@ -26,7 +26,7 @@
 Для установки выполните следующие команды:
 
 ```bash
-git clone https://github.com/username/system-monitor.git
+git clone https://github.com/Boburumurzoqov/Yaxshilikga-Yo-l.git
 cd system-monitor
 chmod +x monitor.sh
 
